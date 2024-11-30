@@ -1,6 +1,9 @@
 # GitUebung
 
-### Git
+### Table of Contents
+[Branches](https://github.com/Abigail-LlanqueRomero/GitUebung/blob/main/Branches/Branches.md)
+
+## Git
 Git is a version control system created in 2005 by Linus Torvalds, the developer of the Linux kernel. It helps track changes in files, manage different versions of a project, and support teamwork.  
 
 With Git, you can:  
@@ -11,7 +14,7 @@ With Git, you can:
 - Share or download updates from remote repositories
 
 
-### The most important commands
+## The most important commands
 
 The 7 Git commands:
 
