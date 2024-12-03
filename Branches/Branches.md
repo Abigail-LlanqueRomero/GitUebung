@@ -42,9 +42,9 @@ After finishing the task on a branch, it’s common to create a pull request (PR
 
 ## Visualizing Git Branches
 
-![Git Branches](https://i2.wp.com/digitalvarys.com/wp-content/uploads/2019/06/GIT-Branchand-its-Operations.png?fit=1921%2C1057&ssl=1)
-
 [Video: What Are Git Branches?](https://youtu.be/Q1kHG842HoI)
+![Git Branches](https://i2.wp.com/digitalvarys.com/wp-content/uploads/2019/06/GIT-Branchand-its-Operations.png?fit=1921%2C1057&ssl=1)
+![GitBranches](https://github.com/Abigail-LlanqueRomero/GitUebung/blob/main/Images/Branches.jpg)
 
 ## Best Practices for Using Branches
 
