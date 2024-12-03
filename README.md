@@ -44,3 +44,6 @@ git push
 
 ## Review
 Jevgenia Shylovich, 03.12.2024
+
+![CommentAbionJev](https://github.com/Abigail-LlanqueRomero/GitUebung/blob/main/Images/CommentAbiotherRepository.png)
+![CommentJev](https://github.com/Abigail-LlanqueRomero/GitUebung/blob/main/Images/CommentJev.png)
